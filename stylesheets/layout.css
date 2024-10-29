@@ -1,0 +1,390 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e4fff8;
+  font-family: "Fira Code";
+  width: 1440px;
+  display: block;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.section-1 {
+  width: 1440px;
+  height: 1718px;
+  background-image: url("../images/fon.svg");
+}
+.ekran {
+  width: 1113px;
+  height: 862px;
+  background-image: url("../images/ekran.svg");
+  display: block;
+  margin: 0 auto;
+  padding-top: 214px;
+}
+.ekran h1 {
+  font-size: 200px;
+  color: #ffe2ec;
+  -webkit-text-stroke: 2px #ff586c;
+  stroke: #ff586c;
+  stroke-width: 2px;
+  width: 480px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.trapecia {
+  width: 1439px;
+  height: 1325px;
+  background-image: url("../images/trapecia.svg");
+  display: block;
+  margin: 0 auto;
+  position: relative;
+}
+.tamagochi {
+  width: 675.36px;
+  height: 840.95px;
+  position: absolute;
+  top: 0;
+  left: 680px;
+}
+
+.trapecia p {
+  font-size: 20px;
+  width: 596px;
+  height: 100px;
+  color: #18305a;
+  position: absolute;
+  top: 117px;
+  left: 195px;
+  line-height: 26px;
+}
+
+.bigben {
+  width: 318.45px;
+  height: 394.54px;
+  position: absolute;
+  top: 283px;
+  left: 135px;
+}
+
+.avtomati {
+  width: 1439px;
+  height: 871px;
+  background-image: url("../images/avtomati.svg");
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 6px;
+}
+
+.ocoshco {
+  width: 448px;
+  height: 173px;
+  position: absolute;
+  left: 991px;
+}
+
+.avtomati p {
+  font-size: 20px;
+  color: #18305a;
+  width: 480px;
+  margin: 0 auto;
+  position: absolute;
+  left: 1144px;
+  top: 29px;
+  line-height: 36px;
+}
+
+.tamagochi .nach1 {
+  font-size: 48px;
+  left: 288px;
+  top: 295px;
+  font-size: 48px;
+  color: #18305a;
+  font-weight: 500;
+}
+
+.tamagochi .nach2 {
+  font-size: 32px;
+  color: #fb5aa8;
+  left: 395px;
+  top: 379px;
+  font-weight: bold;
+}
+
+.tamagochi .nach3 {
+  font-size: 32px;
+  color: #fb5aa8;
+  left: 387px;
+  top: 420px;
+  font-weight: lighter;
+}
+
+.tamagochi .nach4 {
+  font-size: 32px;
+  color: #fb5aa8;
+  left: 376px;
+  top: 470px;
+  font-weight: 400;
+}
+
+.tamagochi .nach5 {
+  font-size: 32px;
+  color: #fb5aa8;
+  left: 376px;
+  top: 513px;
+  font-weight: 500;
+}
+
+.tamagochi .nach6 {
+  font-size: 32px;
+  color: #fb5aa8;
+  left: 367px;
+  top: 562px;
+}
+
+.fon3 {
+  width: 1440px;
+  height: 852px;
+  background-image: url(../images/fon3.svg);
+}
+
+.okno3 {
+  position: relative;
+  top: 32px;
+  left: 907px;
+}
+.okno2 {
+  position: absolute;
+  top: 3140px;
+  left: 449px;
+}
+.okno1 {
+  position: absolute;
+  top: 2909px;
+  left: 54px;
+}
+.fon3 .ru1 {
+  font-size: 40px;
+  color: #ffffff;
+  position: absolute;
+  top: 2718px;
+  left: 944px;
+  line-height: 52px;
+  font-weight: normal;
+}
+.fon3 .ru2 {
+  font-size: 40px;
+  color: #ffffff;
+  position: absolute;
+  top: 2981px;
+  left: 944px;
+  line-height: 52px;
+  font-weight: normal;
+}
+.fon3 .ru3 {
+  font-size: 40px;
+  color: #ffffff;
+  position: absolute;
+  top: 3146px;
+  left: 1090px;
+  font-weight: normal;
+}
+.fon3 .sim {
+  font-size: 40px;
+  color: #ffaac7;
+  position: absolute;
+  top: 3201px;
+  left: 539px;
+  font-weight: normal;
+  line-height: 52px;
+}
+
+.eng1 {
+  font-size: 40px;
+  color: #ffffff;
+  position: absolute;
+  top: 2958px;
+  left: 85px;
+  font-weight: normal;
+  line-height: 52px;
+}
+.eng2 {
+  font-size: 40px;
+  color: #ffffff;
+  position: absolute;
+  top: 3126px;
+  left: 85px;
+  font-weight: normal;
+  line-height: 52px;
+}
+
+.zagolovok {
+  font-size: 48px;
+  color: #073b64;
+  top: 2649px;
+  left: 54px;
+  position: absolute;
+  font-weight: 500;
+}
+.fon4 {
+  height: 871px;
+  background-image: url(../images/fon4.svg);
+}
+.fon4 .prist {
+  position: relative;
+  top: 81px;
+  left: -75px;
+}
+.fon4 .ligat {
+  position: absolute;
+  top: 3630px;
+  left: 281px;
+}
+
+.fon4 .plaska {
+  position: absolute;
+  top: 3982px;
+  left: 714px;
+}
+
+.text {
+  font-size: 48px;
+  color: #073b64;
+  position: absolute;
+  top: 3540px;
+  left: 345px;
+  font-weight: normal;
+  font-weight: 500;
+}
+
+.text2 {
+  font-size: 20px;
+  color: #ef5a92;
+  position: absolute;
+  top: 4074px;
+  left: 749px;
+}
+
+.text3 {
+  font-size: 20px;
+  color: #073b64;
+  position: absolute;
+  top: 4074px;
+  left: 858px;
+}
+
+.text4 {
+  font-size: 20px;
+  color: #073b64;
+  position: absolute;
+  top: 4102px;
+  left: 749px;
+}
+
+.fon5 {
+  background-image: url(../images/fon5.svg);
+  height: 1721px;
+}
+
+.pristavki {
+  height: 875px;
+}
+
+.over {
+  height: 845px;
+}
+.prist2 {
+  position: absolute;
+  top: 4357px;
+  left: 89px;
+  transform: rotate(-13deg);
+}
+
+.bukov {
+  position: absolute;
+  top: 4346px;
+  left: 70px;
+  transform: rotate(-16deg);
+}
+
+.prist3 {
+  position: absolute;
+  top: 4357px;
+  left: 810px;
+  transform: rotate(11deg);
+}
+
+.bukov2 {
+  position: absolute;
+  top: 4295px;
+  left: 910px;
+  transform: rotate(11deg);
+}
+
+.plaska2 {
+  position: absolute;
+  top: 4774px;
+  left: 374px;
+}
+
+.text5 {
+  position: absolute;
+  top: 4826px;
+  left: 402px;
+  font-size: 20px;
+  width: 601px;
+  height: 156px;
+  color: #18305a;
+  line-height: 26px;
+}
+
+.zagolovok2 {
+  font-size: 48px;
+  color: #073b64;
+  top: 46px;
+  left: 568px;
+  position: relative;
+  font-weight: 500;
+}
+
+.GAMEOVER {
+  font-size: 200px;
+  color: #ffe2ec;
+  -webkit-text-stroke: 2px #ff586c;
+  position: relative;
+  top: 145px;
+  left: 186px;
+}
+
+.pers {
+  position: relative;
+  top: 188px;
+}
+
+.name {
+  font-size: 32px;
+  color: #073b64;
+  position: absolute;
+  top: 5915px;
+  left: 478px;
+}
+
+.vuz {
+  font-size: 20px;
+  color: #073b64;
+  position: absolute;
+  top: 5964px;
+  left: 463px;
+}
+
+.god {
+  font-size: 16px;
+  color: #073b64;
+  position: absolute;
+  top: 6006px;
+  left: 586px;
+}
